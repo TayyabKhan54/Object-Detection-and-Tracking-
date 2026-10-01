@@ -1,0 +1,5 @@
+streamlit>=1.40
+streamlit-webrtc>=0.47
+opencv-python>=4.9
+ultralytics>=8.3
+deep-sort-realtime>=1.3
